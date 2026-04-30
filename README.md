@@ -35,7 +35,7 @@ The full technical implementation, including data cleaning, feature engineering,
 
 ### 1. Technical Setup
 To replicate this analysis or run the predictive pipeline locally:
-1. **Download the Dataset:** Obtain the OULAD files from the [official source](https://analyse.kmi.open.ac.uk/open_dataset) and place the `.csv` files in the root directory.
+1. **Download the Dataset:** Obtain the OULAD files from the [official source](https://analyse.kmi.open.ac.uk/open-dataset) and place the `.csv` files in the root directory.
 2. **Install Dependencies:** Ensure you have the required libraries installed:
    ```bash
    pip install pandas scikit-learn seaborn matplotlib numpy
