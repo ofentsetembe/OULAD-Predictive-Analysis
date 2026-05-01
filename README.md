@@ -27,7 +27,7 @@ The following tools were used to build the predictive pipelines:
 ## How to View the Analysis
 The full technical implementation, including data cleaning, feature engineering, and model evaluation, is contained within the notebook:
 
-**[Click here to view the Analysis Notebook](./2540702_OULAD_Final.ipynb)** ---
+**[Click here to view the Analysis Notebook](./OULAD_Individual_2540702.ipynb)** ---
 
 ---
 
